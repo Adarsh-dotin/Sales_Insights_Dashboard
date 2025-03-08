@@ -1,4 +1,4 @@
-# AtliQ Hardware Sales Insights Dashboard<br>
+# Sales Insights Dashboard<br>
 Overview<br>
 This Power BI dashboard visualizes the sales performance of AtliQ Hardware from 2017-2020. It provides real-time insights into revenue trends, customer behavior, and product performance, aiding strategic decision-making.<br><br>
 
